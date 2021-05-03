@@ -1,0 +1,11 @@
+/final_project/unet/*.hdf5
+/final_project/unet/predictions
+/final_project/unet/hist
+/final_project/unet/X_test
+/final_project/unet/y_test
+
+/final_project/unet++/*.hdf5
+/final_project/unet++/predictions
+/final_project/unet++/hist
+/final_project/unet++/X_test
+/final_project/unet++/y_test
