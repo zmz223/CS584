@@ -9,3 +9,8 @@
 /final_project/unet++/hist
 /final_project/unet++/X_test
 /final_project/unet++/y_test
+
+/final_project/.ipynb_checkpoints
+
+/final_project/unet++/.ipynb_checkpoints
+/final_project/unet++/__pycache__
